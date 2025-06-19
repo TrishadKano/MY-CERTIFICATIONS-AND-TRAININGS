@@ -3,3 +3,14 @@
 
 Welcome to my Certification Repository! This repository serves as a structured archive of my certification journey, including code, projects, notes, and supporting materials for the certifications I am pursuing or have completed.
 
+## 🚀 Technologies / Tools:
+
+
+-- Python, R, SQL
+
+Power BI, Tableau
+
+Jupyter Notebook
+
+Git, GitHub
+
