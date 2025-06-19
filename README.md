@@ -5,12 +5,11 @@ Welcome to my Certification Repository! This repository serves as a structured a
 
 ## 🚀 Technologies / Tools:
 
+- Python, R, SQL
 
--- Python, R, SQL
+- Microsoft Power BI
 
-Power BI, Tableau
+- Jupyter Notebook
 
-Jupyter Notebook
-
-Git, GitHub
+- Git, GitHub
 
