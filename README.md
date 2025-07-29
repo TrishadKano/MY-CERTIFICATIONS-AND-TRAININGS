@@ -1,7 +1,7 @@
 # Welcome to my Certification Repository!📜 
 
 
-- This repository serves as a structured archive of my certification journey, including code, projects, notes, and supporting materials for the certifications I have completed.
+- This folder contains a curated collection of my professional certifications, showcasing my commitment to continuous learning and skill development in data science, analytics, and related fields.
 
 ## 🚀 Technologies / Tools:
 
